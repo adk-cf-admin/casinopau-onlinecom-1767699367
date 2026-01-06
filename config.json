@@ -1,0 +1,197 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#182C3D",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#F5F5F5",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#39afea",
+            "text-head": "#222829",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#ff4747",
+            "yellow": "#39afea",
+            "yellow-button": "#FFD948",
+            "button-text": "#222829",
+            "main-button-text": "#222829",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#182C3D",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#182C3D",
+            "copyright": "#e7e7d5",
+            "starColor": "#39afea",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Pau",
+            "title": "Casino de Pau : machines à sous, tables, gains, événements et Royal Lounge",
+            "description": "Découvrez le Casino de Pau : slots, jeux électroniques et tables traditionnelles, jackpots progressifs, animations du soir et espaces de détente. Infos pratiques sur horaires, conditions d’accès, mises et divertissements pour une sortie réussie.",
+            "canonical": "casinopau-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1373",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinopau-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1374",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1375"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1383",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Pau Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": " Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino de Pau — jeux, jackpots, concerts et soirée complète",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1380",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1381",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": " Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": " Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Jackpots fréquents et gros gains possibles",
+                "Promotions régulières sur les machines à sous",
+                "Jeux électroniques avec mises accessibles",
+                "Tables traditionnelles avec croupiers en soirée",
+                "Large choix de slots et terminaux",
+                "Soirées, concerts et animations récurrentes",
+                "Accès pratique et parking gratuit"
+            ],
+            "advantagesAfterText": "Le Casino de Pau séduit par un mélange d’adrénaline et de confort. On y trouve facilement un rythme de jeu adapté, du divertissement rapide aux sessions plus stratégiques.",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Pau App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1382",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Pau App",
+            "mobileGooglePlayImageTitle": "Casino de Pau App",
+            "mobileIosImageTitle": "Casino de Pau App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Pau",
+                "description1": "Le casino se distingue par une mise en avant claire des gains et une dynamique de jackpots qui attire les joueurs. L’expérience est renforcée par des espaces conviviaux et des soirées qui prolongent le plaisir au-delà du jeu.\n",
+                "items": [
+                    "Jackpots hebdo : jusqu’à 13 000 €+",
+                    "Gains progressifs : 3 niveaux de jackpots",
+                    "Gains dès 100 € visibles régulièrement"
+                ],
+                "description2": "Le Casino de Pau est un lieu moderne pensé pour vivre une vraie sortie et changer d’air. L’espace est conçu pour circuler facilement entre les zones de jeu et les moments de pause. On y retrouve machines à sous, jeux électroniques et tables classiques, ce qui permet d’adapter son rythme. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1384",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "L’ambiance mise sur le confort, la lumière et des éléments visuels qui renforcent l’esprit “spectacle”. En journée, l’atmosphère est plus calme et propice à des sessions détendues. Le soir, le casino devient plus animé et se prête davantage aux expériences conviviales. Des animations régulières viennent enrichir le programme et éviter la routine. Le personnel accompagne les visiteurs et facilite la prise en main pour ceux qui découvrent le lieu. Les règles d’accès restent simples et contribuent à l’image soignée de l’établissement. C’est une adresse où jeu, service et divertissement se complètent naturellement.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Pau : ambiance, jeux et soirée complète",
+                "description": "<p>\nLe Casino de Pau propose une atmosphère moderne, ample et pensée “grand divertissement” : lumières, écrans et espaces bien découpés créent un cadre vivant sans être étouffant. La circulation est fluide et l’on ressent une organisation qui garde le lieu confortable, même lorsqu’il y a du monde. On peut y venir pour une session rapide ou pour une longue soirée, en alternant jeu et pauses. Le style général évoque un établissement actuel, orienté expérience et convivialité.\n\n<\/p>\n<br>\n\n\n<p>\nLes horaires sont conçus pour s’adapter aux sorties de journée comme aux nuits plus tardives. L’ouverture est quotidienne, avec des fins de soirée prolongées en fin de semaine. Cela convient particulièrement aux visiteurs qui veulent prendre leur temps, dîner, jouer et prolonger l’ambiance. Les veilles de jours fériés peuvent également offrir une amplitude horaire renforcée, pratique pour les périodes festives.\n\n<\/p>\n<br>\n<p>\nCôté bars et espaces lounge, le casino encourage les pauses et le rythme “à la carte”. On trouve des zones pour boire un verre et reprendre le jeu sans rupture. Le Royal Lounge se démarque par une énergie plus nocturne, idéale pour transformer une simple visite en véritable sortie. Cette logique fait du casino un point de rendez-vous, pas seulement une salle de jeux.\n\n<\/p>\n<br>\n<p>\nPour ceux qui aiment les rendez-vous culturels, la dimension événementielle apporte une vraie valeur ajoutée. Le Royal Pau Events fonctionne comme un espace modulable capable d’accueillir concerts, soirées thématiques et événements privés. Grâce à la scène et à l’équipement technique, les formats restent variés et renouvelés. Le casino gagne ainsi une identité “spectacle” en plus de l’offre de jeu.\n\n<\/p>\n<br>\n<p>\nIl n’y a généralement pas d’hôtel intégré, mais l’expérience se combine facilement avec un hébergement à proximité, selon le budget et le confort recherchés. Beaucoup de visiteurs adoptent un format “soirée” ou “week-end”, en alternant casino, restauration et découvertes locales. Cette flexibilité plaît à ceux qui veulent tout organiser sans dépendre d’un seul lieu d’hébergement. Le Casino de Pau devient alors une pièce centrale d’un programme plus large.\n\n<\/p>\n<br>\n<p>\nEnfin, les offres et mécaniques de fidélisation renforcent l’intérêt des retours réguliers. L’accent se met souvent sur des avantages cumulés, des propositions personnalisées et des animations saisonnières qui dynamisent les visites. Les joueurs sensibles aux offres sur machines, aux jeux électroniques ou aux soirées trouvent des raisons de revenir. L’ensemble donne une expérience cohérente, où jeu, ambiance et service se répondent.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et paiements au Casino de Pau : équipe, moyens de règlement et gains\n<\/h3>\n\n<p>\nAu Casino de Pau, l’équipe fonctionne généralement avec une logique d’accompagnement : orientation dans les espaces, explications simples sur les terminaux, et aide pour les démarches courantes. Le soir, lorsque les tables et les animations créent plus d’affluence, le personnel devient plus présent pour garder un service fluide et un accès bien contrôlé. Le ton reste en principe calme et courtois, ce qui rassure les nouveaux visiteurs. Pour les questions spécifiques, on vous dirige vers l’accueil ou vers un responsable.\n\n<\/p>\n<br>\n\n\n<p>\nCôté langues, le français est la base la plus confortable, et l’on rencontre souvent un niveau d’anglais utile pour les demandes simples, surtout lorsque la fréquentation est plus internationale. Pour les informations sur des sujets précis (paiements, événements, réservations), des phrases claires et directes facilitent les échanges. Les demandes liées aux soirées privées, aux concerts ou aux banquets passent généralement par un interlocuteur dédié. Cela rend l’organisation plus simple et plus fiable.\n\n<\/p>\n<br>\n<p>\nLa monnaie utilisée est l’euro, et l’ensemble des opérations est pensé autour de ce cadre. Les paiements par carte bancaire sont habituellement bien intégrés, tout comme l’usage d’espèces pour certaines opérations de caisse. On retrouve fréquemment les principaux réseaux et la possibilité de régler sans contact, pratique pour les transactions rapides. Selon les procédures internes, certains modes peuvent avoir des seuils minimums ou des conditions d’utilisation.\n\n<\/p>\n<br>\n<p>\nLa question des distributeurs et du change concerne surtout les visiteurs venant de l’étranger ou ceux qui préfèrent gérer leur budget en espèces. Le plus pratique est souvent de prévoir des euros en amont, afin d’éviter les recherches tardives pendant la soirée. Une préparation simple — montant, limite de dépenses, mode de paiement — aide à garder un contrôle confortable. Cela rend l’expérience plus sereine et plus responsable.\n\n<\/p>\n<br>\n<p>\nLe retrait d’un gain se fait généralement à la caisse, avec une procédure classique de vérification d’identité. Pour des montants importants, des contrôles complémentaires peuvent exister : pièce d’identité, formalités, et choix du mode de paiement. Selon le montant, le règlement peut se faire en espèces dans certaines limites, ou via des solutions de paiement adaptées aux sommes plus élevées. Le respect des règles de sécurité et de conformité reste prioritaire.\n\n<\/p>\n<br>\n<p>\nEnfin, la fiscalité dépend du statut du joueur et des obligations liées à sa résidence fiscale. Le casino applique les règles en vigueur pour la remise des gains, tandis que les démarches de déclaration peuvent relever du joueur selon sa situation. Pour des gains significatifs, il peut être utile de vérifier les obligations auprès d’un professionnel compétent. Dans tous les cas, l’identification et la traçabilité restent des points essentiels lors d’un paiement de gain.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles d’accès au Casino de Pau : tenue, entrée et conseils pratiques<\/h3>\n\n<p>\nVisiter le Casino de Pau implique de respecter des règles simples qui garantissent une ambiance sereine et sécurisée. L’accès aux salles de jeu est réservé aux majeurs, et une pièce d’identité valide est indispensable. La tenue correcte est une règle importante : l’établissement privilégie un esprit “sortie” plutôt qu’un look sportif. À l’entrée, on peut vous demander de faciliter l’identification, notamment en retirant certains accessoires. Le casino applique en général un refus d’accès en cas de comportement inapproprié, d’agressivité ou d’ivresse excessive. La photo et la vidéo peuvent être limitées dans les zones de jeu afin de préserver la confidentialité. Aux heures d’affluence, le contrôle est plus strict pour maintenir la qualité d’accueil. Il est utile de choisir son horaire selon l’objectif : tables, ambiance du soir, ou session plus calme. Pour les automobilistes, la proximité d’un stationnement et la facilité d’accès sont des atouts majeurs. Sans voiture, le taxi reste souvent la solution la plus confortable, surtout tard dans la nuit.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress-code)\n<\/h4>\n\n <ul>\n            <li>• \nStyle soigné “casual\/soirée” recommandé\n\n<\/li>\n            <li>• \nTenues de sport et de plage déconseillées\n\n<\/li>\n            <li>• \nChaussures et apparence générales propres exigées\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’entrée\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRéservé aux 18+\n\n<\/li>\n            <li>• \nPièce d’identité valide obligatoire\n\n<\/li>\n            <li>• \nRefus possible en cas de non-respect des règles\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nComportements agressifs ou perturbateurs interdits\n\n<\/li>\n            <li>• \nRestrictions possibles sur photo\/vidéo en zones de jeu\n\n<\/li>\n            <li>• \nToute manipulation des équipements est proscrite\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking et accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès pratique depuis les grands axes\n\n<\/li>\n            <li>• \nArrivée en voiture facilitée en soirée\n\n<\/li>\n            <li>• \nTaxi conseillé pour les retours tardifs\n<\/li>\n           \n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino de Pau : niveaux, avantages et bonus\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino de Pau s’adresse à ceux qui reviennent régulièrement et souhaitent bénéficier d’avantages concrets. Le principe est clair : plus vous jouez et plus vous participez à la vie du casino, plus les offres deviennent personnalisées. La carte de membre relie l’expérience de jeu à des privilèges, des invitations et des conditions avantageuses. Pour beaucoup, c’est une manière de rendre chaque visite plus riche et plus confortable. Les points cumulés se transforment ensuite en bonus ou en cadeaux, selon les règles en place. Des offres spécifiques apparaissent souvent autour des fêtes, des périodes saisonnières et des anniversaires. Les joueurs de machines à sous et de jeux électroniques profitent particulièrement de ce système, car la régularité y est simple à maintenir. Les jeux de table peuvent aussi être concernés, selon les modalités internes. L’inscription est rapide et nécessite généralement une vérification d’identité. Une fois la carte active, les offres et les invitations deviennent plus visibles et plus ciblées. Les niveaux supérieurs apportent davantage de différenciation dans l’accueil et l’accès aux événements. Au final, la fidélité se transforme en parcours de privilèges progressif.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAvoir 18+ et une pièce d’identité valide\n\n<\/li>\n            <li>• \nRemplir un formulaire (coordonnées pour recevoir les offres)\n\n<\/li>\n            <li>• \nAccepter les règles d’attribution et d’utilisation des points\n\n<\/li>\n            <li>• \nRécupérer la carte immédiatement après création\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et comment les atteindre\n<\/h4>\n\n <ul>\n            <li>• \nClassic — dès l’inscription ; base 1 point pour 10 € de jeu\n\n<\/li>\n            <li>• \nSilver — fréquentation active ; bonus de points +10%\n\n<\/li>\n            <li>• \nGold — visites régulières ; bonus +25% et invitations prioritaires\n\n<\/li>\n            <li>• \nPlatinum — forte activité ; bonus +40% et offres très personnalisées\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nBonus de bienvenue : crédits\/bonus 10–30 € sur machines lors des premières visites\n\n<\/li>\n            <li>• \nCadeau d’anniversaire : bonus 10–50 € ou invitation avec attention\n\n<\/li>\n            <li>• \nConversion de points : 100 points = 5 € en bonus\/bon d’achat (selon conditions)\n\n<\/li>\n            <li>• \nInvitations événements : accès concerts\/soirées, valeur 15–40 € environ\n\n<\/li>\n\t    <li>• \nJours “membre” : points multipliés x2 sur des créneaux définis\n\n<\/li>\n\t    <li>• \nAvantages service : accueil plus rapide, facilités de réservation selon disponibilité\n\n<\/li>\n\t    <li>• \nAvantages bar\/restauration : coupons et offres 5–15% selon périodes\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino de Pau",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales au Casino de Pau : promos, gains et temps forts\n<\/h3>\n\n<p>\nEn dehors de la fidélité, le Casino de Pau anime souvent ses salles avec des promotions de jeu et des offres liées au divertissement. Les machines à sous et les jeux électroniques sont fréquemment au cœur de ces actions, car ils se prêtent bien aux mécaniques thématiques. Selon les périodes, on retrouve des créneaux “happy hours”, des mini-compétitions et des rendez-vous du soir qui donnent un aspect événementiel au jeu. L’intérêt est de proposer des avantages simples à comprendre, même pour ceux qui découvrent le casino. Les formats du type “jouez et recevez”, “participez à un tirage”, ou “visez le jackpot” restent accessibles et motivants. Pendant les fêtes et les saisons fortes, les soirées à thème s’accompagnent souvent de musique et d’animations. Une autre dimension concerne les offres bar et restauration, qui renforcent l’idée d’une sortie complète. Par moments, certains jeux peuvent bénéficier de conditions promotionnelles ou de chances supplémentaires sur des jackpots progressifs. Pour les noctambules, les sessions tardives apportent une ambiance plus intense et plus festive. Les jackpots progressifs entretiennent aussi une dynamique de gain qui rend chaque partie potentiellement marquante. Au final, l’expérience combine jeu, événement et confort. C’est cette combinaison qui rend les offres particulièrement attractives.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots progressifs sur machines\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple de gains : 500 € à 13 000 €+ selon le niveau et l’accumulation\n\n<\/li>\n            <li>• \nIdée : plus le pot grossit, plus le gain potentiel augmente\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\n“Happy Hours” machines à sous\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple : crédits bonus 5–20 € sous condition sur un créneau défini\n\n<\/li>\n            <li>• \nIdée : booster une session en début de soirée\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSoirées “tournoi” sur terminaux\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple de dotation : 300–1 500 € répartis selon le classement\n\n<\/li>\n            <li>• \nIdée : compétition sur score\/points pendant une durée limitée\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTirages spéciaux (périodes festives)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple de lots : bons 50–200 €, cadeaux, invitations événements\n\n<\/li>\n            <li>• \nIdée : récompenser la participation sur des dates clés\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffres “seconde chance” sur jeux ciblés\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple : tentatives supplémentaires \/ spins équivalents 5–15 €\n\n<\/li>\n            <li>• \nIdée : prolonger le plaisir sans complexité\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFormules “jeu + bar”\n\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple : avantage boisson 5–12 € lors d’une visite du soir\n\n<\/li>\n            <li>• \nIdée : relier jeu et détente de façon simple\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSoirées à thème saisonnières\n\n<\/h4>\n\n <ul>\n            <li>• \nExemple : valeur combinée entrée + bonus 15–40 €\n\n<\/li>\n            <li>• \nIdée : unir musique, ambiance et dynamique de jeu\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino de Pau : machines, tables et sensations\n<\/h3>\n\n<p>\nLe Casino de Pau propose un mélange de formats qui permet à chacun de trouver son style : rapide, détendu ou plus stratégique. L’intérêt du public se porte souvent sur les machines à sous, car elles sont simples d’accès, rythmées et riches en thèmes. Les joueurs appréciant le confort numérique choisissent volontiers les terminaux électroniques, qui permettent de commencer vite et de garder un tempo sans attente. Pour ceux qui recherchent l’âme du casino, les tables avec croupiers en soirée apportent une dimension plus “spectacle”. La roulette attire par sa cadence et ses choix intuitifs, tandis que le blackjack séduit les profils qui aiment la décision et la discipline. Les formats poker ajoutent un aspect social, avec une tension plus “compétitive” et une place pour la compétence. Beaucoup de visiteurs alternent plusieurs jeux dans la même soirée afin de renouveler les sensations. L’expérience devient alors un parcours de divertissement plutôt qu’une seule session uniforme. Les débutants se tournent souvent vers machines et versions électroniques, plus faciles à prendre en main. Les joueurs confirmés privilégient fréquemment les tables pour l’ambiance et la profondeur. Cet équilibre rend le casino attractif pour des publics très variés.\n\n<\/p>\n<br>\n\n <ul>\n            <li>• \nMachines à sous (slots) — grand choix de thèmes, démarrage rapide, bonus et jackpots progressifs\n\n<\/li>\n            <li>• \nRoulette (électronique\/traditionnelle) — mises sur numéros et sections, rythme fort, idéale en sessions courtes\n\n<\/li>\n            <li>• \nBlackjack (électronique\/traditionnel) — jeu avec stratégie, décisions clés et gestion de bankroll\n\n<\/li>\n            <li>• \nUltimate Hold’em Poker (poker contre la maison) — sensation “poker”, logique de mains et dynamique casino\n\n<\/li>\n\t    <li>• \nVidéo poker — mélange de mécanique machine et de choix inspirés du poker\n\n<\/li>\n\t    <li>• \nPostes électroniques — interface claire, tempo rapide, bon pour découvrir les règles\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino de Pau : minima et maxima par jeu\n<\/h3>\n\n<p> \nLa fourchette de mises compte énormément : certains recherchent une entrée très accessible, d’autres veulent pouvoir jouer plus fort. Au Casino de Pau, on peut généralement commencer bas sur les machines et les postes électroniques, puis monter en intensité sur les tables. Cette flexibilité permet d’adapter le niveau de risque à l’humeur et au budget de la soirée. Le tableau ci-dessous donne un repère pratique des mises minimales et maximales les plus courantes.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FFD948; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous (slots)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">250 €<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Hold’em Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">250 €<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Vidéo poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations au Casino de Pau : concerts, soirées et ambiance nocturne\n<\/h3>\n\n<p>\nLe Casino de Pau ne se limite pas au jeu : c’est aussi un lieu où l’on vient chercher une vraie ambiance et des temps forts réguliers. Sa force réside dans la programmation : soirées à thème, animations, rendez-vous musicaux et moments événementiels donnent l’impression qu’une visite peut toujours réserver une surprise. Le Royal Pau Events apporte une dimension “scène” grâce à un espace pensé pour accueillir concerts, événements privés et formats corporate. Avec une configuration modulable et une technique adaptée, l’endroit peut proposer des expériences très différentes selon le calendrier.\n\n<\/p>\n<br>\n\n\n<p>\nLa soirée se construit souvent selon un enchaînement naturel : jeu, pause au bar, puis musique et convivialité. Le Royal Lounge facilite ce passage vers une énergie plus nocturne, idéale pour prolonger après une session de jeu. Le casino devient alors un point de sortie complet, particulièrement apprécié les fins de semaine. On y reste plus longtemps, car l’ambiance évolue sans nécessiter de changer de lieu.\n\n<\/p>\n<br>\n<p>\nLes animations récurrentes peuvent inclure des soirées saisonnières, des dates spéciales et des programmations musicales qui reviennent régulièrement. Cette régularité crée une habitude : on sait qu’il y aura une ambiance, un programme et un vrai “moment”. Le divertissement s’intègre bien au jeu : on alterne, on respire, on reprend. C’est cette alternance qui rend l’expérience plus fluide et plus riche.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nToutes les animations\n<\/h4>\n\n <ul>\n            <li>• \nRoyal Pau Events (espace concerts\/événements) — concerts, soirées privées, thèmes, événements d’entreprise\n\n<\/li>\n            <li>• \nSoirées à thème — saisons, fêtes, scénarios spéciaux et ambiance renforcée\n\n<\/li>\n            <li>• \nProgrammations musicales — sets et rendez-vous orientés “soirée du week-end”\n\n<\/li>\n            <li>• \nRoyal Lounge (bar & ambiance) — cocktails, convivialité, prolongation de la nuit\n\n<\/li>\n\t    <li>• \nAnimations de jeu — mini-tournois, soirées promo, tirages intégrés au calendrier\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino de Pau : une sortie complète\n<\/h3>\n\n<p>\nAu Casino de Pau, la détente est pensée pour alterner facilement jeu et pauses agréables. Le fait d’avoir une restauration sur place rend la visite plus cohérente : on peut déjeuner ou dîner sans quitter l’univers du casino. Les horaires orientés “midi + soir” conviennent autant aux visiteurs de journée qu’à ceux qui viennent pour une grande soirée. Cette organisation aide à garder un bon rythme, en revenant au jeu avec une énergie renouvelée.\n\n<\/p>\n<br>\n\n\n<p>\nLes espaces bar apportent de la souplesse : une pause courte peut suffire pour relancer la soirée. Le Royal Lounge se distingue par un esprit plus nocturne, où la détente devient une partie de l’expérience. On s’y retrouve plus facilement entre amis, on échange, on profite d’une ambiance plus “sortie”. Ce format est particulièrement recherché en fin de semaine, lorsque l’on veut prolonger la nuit.\n\n<\/p>\n<br>\n<p>\nConcernant l’hébergement, le casino ne propose généralement pas d’hôtel intégré, mais l’expérience se combine très bien avec des hôtels proches. C’est pratique pour un séjour “week-end” : on choisit un niveau de confort adapté et on utilise le casino comme point central. Au final, la sortie se construit avec des éléments simples : jeu, repas, bar, animations et retour confortable à l’hôtel.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les espaces détente\n<\/h4>\n\n <ul>\n            <li>• \nRestaurant des machines — déjeuners\/dîners, cuisine de saison, pause sans quitter le lieu\n\n<\/li>\n            <li>• \nBar des espaces de jeu — boissons rapides, pauses courtes entre sessions\n\n<\/li>\n            <li>• \nRoyal Lounge — lounge du soir, cocktails, atmosphère plus festive\n\n<\/li>\n            <li>• \nZones de pause — moments de respiration entre jeu et animations\n\n<\/li>\n\t    <li>• \nHôtels à proximité — choix flexible pour une soirée ou un week-end\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Peut-on demander une limitation d’accès au jeu ?",
+                    "answer": "Oui, des dispositifs existent pour le jeu responsable et l’auto-limitation. Le personnel peut orienter vers la démarche adaptée.\n\n\n"
+                },
+                {
+                    "title": "Faut-il réserver pour entrer au casino ?",
+                    "answer": "En général non : l’accès se fait librement si les règles sont respectées et si vous avez une pièce d’identité. La réservation concerne surtout les événements, concerts et créneaux restaurant très demandés.\n\n\n"
+                },
+                {
+                    "title": "Le casino est-il accessible aux personnes à mobilité réduite ?",
+                    "answer": "Les infrastructures modernes sont généralement adaptées, avec des accès et des circulations pratiques. Les événements prévoient aussi des conditions d’accueil cohérentes.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1385",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Pau"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
